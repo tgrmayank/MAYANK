@@ -1,1 +1,18 @@
 
+{
+  "app_name": "RAWAT CAFE OWNER PANEL",
+  "package_name": "com.rawat.cafe.owner",
+  "version_code": 2,
+  "version_name": "1.1.0",
+  "force_update": false,
+  "update_title": "A New Owner Panel Update",
+  "update_benefits": [
+    "Improved app performance",
+    "Smoother animations and transitions",
+    "Improved connection recovery",
+    "Enhanced owner panel experience"
+  ],
+  "release_notes": "Performance improvements and interface refinements.",
+  "download_url": "https://example.com/rawat-cafe-owner.apk"
+}
+
